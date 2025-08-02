@@ -1,0 +1,9 @@
+{
+    "线路数组": "mi_paly_box\">&&</div>",
+    "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>播放列表]",
+    "搜索url": "https://www.bttwo.me/xssearch?q={wd}&f=_all&p={pg}",
+    "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+    "简介": "yp_context&&</div>",
+    "分类": "最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
+    "分类url": "https://www.bttwo.me/{cateId}/{area}/{year}/{class}/page/{catePg}"
+}

@@ -1,0 +1,7 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "电影$chfilm#电视剧$chtvs#综艺$chvariety#动漫$chcg#",
+    "分类url": "https://www.cgong.com/{cateId}/{class}_{area}_{year}_gold_{catePg}.html",
+    "简介": "🧧兵哥提醒你勿信视频中的广告🧧"
+}

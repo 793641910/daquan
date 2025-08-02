@@ -1,0 +1,20 @@
+{
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "数组": "<a class=\"hl-item-thumb hl-lazy&&</a>",
+                "标题": "title=\"&&\"",
+                "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "线路数组": "<a class=\"hl-tabs-btn hl-slide-swiper&&/a>",
+                "线路标题": "</i>&&<",
+                "播放数组": "<ul class=\"hl-plays-list hl-sort-list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "搜索url": "https://www.yingqu1.com/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://www.yingqu1.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#番剧$66#",
+                "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失！🌺兵哥提醒您以下为简介🌺：+hl-text-muted\">&&</div>"
+            }
