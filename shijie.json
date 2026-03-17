@@ -1967,6 +1967,20 @@
             "gridview": "0-0-4.1"
         },
         {
+      "key": "hipy_py_七猫小说[书]",
+      "name": "七猫🧧小说",
+      "type": 3,
+      "api": "./PY/七猫小说[书].py",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "类型": "小说",
+      "title": "七猫小说[书]",
+      "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
+      "lang": "hipy",
+      "ext": ""
+    },
+        {
             "key": "push_agent",
             "name": "手机🧧推送",
             "type": 3,
