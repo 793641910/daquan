@@ -616,6 +616,108 @@
             "filterable": 1
         },
         {
+            "key": "星阁短剧",
+            "name": "星阁🧧短剧",
+            "type": 3,
+            "api": "csp_XinggeDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
+            "key": "甜圈短剧",
+            "name": "甜圈🧧短剧",
+            "type": 3,
+            "api": "csp_TianquanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
+            "key": "锦鲤短剧",
+            "name": "锦鲤🧧短剧",
+            "type": 3,
+            "api": "csp_JinliDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马🧧短剧",
+            "type": 3,
+            "api": "./PY/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "类型": "短剧"
+        },
+        {
+            "key": "星芽短剧",
+            "name": "星芽🧧短剧",
+            "type": 3,
+            "api": "./PY/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
+            "key": "剧王短剧",
+            "name": "剧王🧧短剧",
+            "type": 3,
+            "api": "./PY/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
+            "key": "红果|短剧",
+            "name": "红果🧧短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8#",
+                "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
+            },
+            "类型": "短剧"
+        },
+        {
+            "key": "短剧网",
+            "name": "短剧网🧧短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/短剧网.json",
+            "类型": "短剧"
+        },
+        {
+      "key": "七猫小说[书]",
+      "name": "七猫小说",
+      "type": 3,
+      "api": "./PY/七猫小说[书].py",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "类型": "小说",
+      "title": "七猫小说[书]",
+      "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
             "key": "push_agent",
             "name": "手机🧧推送",
             "type": 3,
