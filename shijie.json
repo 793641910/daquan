@@ -1980,20 +1980,19 @@
       "lang": "hipy",
       "ext": ""
     },
-    {
-      "key": "php_动漫啦 ᵈᶻ[画]",
+   {
+      "key": "drpy2_动漫啦[画]",
       "name": "动漫啦",
-      "type": 4,
-      "api": "./api/动漫啦 ᵈᶻ[画].php",
-      "searchable": 1,
+      "type": 3,
+      "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
+      "searchable": 2,
       "filterable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
+      "title": "动漫啦",
       "类型": "漫画",
-      "title": "动漫啦 ᵈᶻ[画]",
-      "lang": "php",
-      "ext": ""
-    },
-        {
+      "lang": "dr2",
+      "ext": "./js/动漫啦[画].js"
+    },     {
             "key": "push_agent",
             "name": "手机🧧推送",
             "type": 3,
