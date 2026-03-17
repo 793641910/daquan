@@ -1988,11 +1988,21 @@
       "searchable": 2,
       "filterable": 1,
       "quickSearch": 0,
-      "title": "动漫啦",
       "类型": "漫画",
-      "lang": "dr2",
       "ext": "./js/包子漫画[画].js"
-    },     {
+    },    
+     {
+      "key": "drpy2_第一韩漫[画]",
+      "name": "第一韩漫",
+      "type": 3,
+      "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "类型": "漫画",
+      "ext": "./js/第一韩漫[画].js"
+    },    
+        {
             "key": "push_agent",
             "name": "手机🧧推送",
             "type": 3,
