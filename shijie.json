@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥3月10日🌺春暖花开日，莺歌燕舞来🌺祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥3月17日🌺春暖花开日，莺歌燕舞来🌺祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -43,56 +43,6 @@
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "name": "酷狗🧧音乐",
-            "key": "KuGou",
-            "type": 3,
-            "api": "csp_KuGouAmns",
-            "jar": "./jar/aowu.jar",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "易听音乐",
-            "name": "易听🧧音乐",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "jar": "./jar/oklao.jpg",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "sp": "ShiJiMusic"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "爱听音乐",
-            "name": "爱听🧧音乐",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "jar": "./jar/oklao.jpg",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "sp": "AiMusic"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "DG音乐仓",
-            "name": "DG🧧音乐台",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "./jar/fty.jar",
-            "searchable": 0,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./XBPQ/ych.json"
         },
         {
             "key": "恐怖片",
