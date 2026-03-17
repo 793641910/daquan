@@ -1318,6 +1318,17 @@
             "ext": "./js/剧圈圈.js"
         },
         {
+            "key": "星阁短剧",
+            "name": "星阁🧧短剧",
+            "type": 3,
+            "api": "csp_XinggeDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+        {
             "key": "甜圈短剧",
             "name": "甜圈🧧短剧",
             "type": 3,
@@ -1333,17 +1344,6 @@
             "name": "锦鲤🧧短剧",
             "type": 3,
             "api": "csp_JinliDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "类型": "短剧"
-        },
-        {
-            "key": "星阁短剧",
-            "name": "星阁🧧短剧",
-            "type": 3,
-            "api": "csp_XinggeDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1979,7 +1979,8 @@
       "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
       "lang": "hipy",
       "ext": ""
-    },{
+    },
+    {
       "key": "顶点小说[书]",
       "name": "顶点小说",
       "type": 3,
@@ -1990,17 +1991,7 @@
       "类型": "小说",
       "ext": "./js/顶点小说[书].js"
     },
-   {
-      "key": "drpy2_番茄漫画[画]",
-      "name": "包子漫画[画]",
-      "type": 3,
-      "api": "./api/包子漫画 ᵈᶻ[画].php",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "类型": "漫画"
-    },    
-     {
+    {
       "key": "丫丫电子书[书]",
       "name": "丫丫电子书",
       "type": 3,
@@ -2011,7 +2002,7 @@
       "类型": "小说",
       "ext": "./js/丫丫电子书[书].js"
     },    
-        {
+    {
             "key": "push_agent",
             "name": "手机🧧推送",
             "type": 3,
