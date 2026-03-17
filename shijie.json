@@ -1984,7 +1984,7 @@
       "key": "php_动漫啦 ᵈᶻ[画]",
       "name": "动漫啦",
       "type": 4,
-      "api": "./api/动漫啦 ᵈᶻ[画]?do=php",
+      "api": "./api/动漫啦 ᵈᶻ[画].php",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
