@@ -1968,7 +1968,7 @@
         },
         {
       "key": "hipy_py_七猫小说[书]",
-      "name": "七猫🧧小说",
+      "name": "七猫小说",
       "type": 3,
       "api": "./PY/七猫小说[书].py",
       "searchable": 1,
@@ -1978,6 +1978,21 @@
       "title": "七猫小说[书]",
       "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
       "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_酷爱漫画[画]",
+      "name": "酷爱漫画",
+      "type": 4,
+      "api": "./api/酷爱漫画[画]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "酷爱漫画[画]",
+      "author": "EylinSir",
+      "类型": "漫画",
+      "logo": "https://www.kuimh.com/static/images/favicon.ico",
+      "lang": "ds",
       "ext": ""
     },
         {
