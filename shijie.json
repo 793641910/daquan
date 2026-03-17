@@ -1989,7 +1989,7 @@
       "filterable": 1,
       "quickSearch": 0,
       "类型": "漫画",
-      "ext": "./js/番茄漫画[画].js"
+      "ext": "./js/漫画大全[画].js"
     },    
      {
       "key": "drpy2_光社漫画[画]",
@@ -2000,7 +2000,7 @@
       "filterable": 1,
       "quickSearch": 0,
       "类型": "漫画",
-      "ext": "./js/光社漫画[画].js"
+      "ext": "./js/酷爱漫画[画].js"
     },    
         {
             "key": "push_agent",
