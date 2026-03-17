@@ -1989,18 +1989,18 @@
       "filterable": 1,
       "quickSearch": 0,
       "类型": "漫画",
-      "ext": "./js/漫画大全[画].js"
+      "ext": "./js/漫神[画].js"
     },    
      {
       "key": "drpy2_光社漫画[画]",
-      "name": "光社漫画[画]",
+      "name": "漫画[画]",
       "type": 3,
       "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
       "searchable": 2,
       "filterable": 1,
       "quickSearch": 0,
       "类型": "漫画",
-      "ext": "./js/酷爱漫画[画].js"
+      "ext": "./js/爱推图[画].js"
     },    
         {
             "key": "push_agent",
