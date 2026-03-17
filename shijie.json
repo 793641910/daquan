@@ -1981,8 +1981,8 @@
       "ext": ""
     },
    {
-      "key": "drpy2_动漫啦[画]",
-      "name": "动漫啦",
+      "key": "drpy2_包子漫画[画]",
+      "name": "包子漫画",
       "type": 3,
       "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
       "searchable": 2,
@@ -1991,7 +1991,7 @@
       "title": "动漫啦",
       "类型": "漫画",
       "lang": "dr2",
-      "ext": "./js/动漫啦[画].js"
+      "ext": "./js/包子漫画[画].js"
     },     {
             "key": "push_agent",
             "name": "手机🧧推送",
