@@ -1981,18 +1981,16 @@
       "ext": ""
     },
     {
-      "key": "drpyS_酷爱漫画[画]",
-      "name": "酷爱漫画",
+      "key": "php_动漫啦 ᵈᶻ[画]",
+      "name": "动漫啦",
       "type": 4,
-      "api": "./api/酷爱漫画[画]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "title": "酷爱漫画[画]",
-      "author": "EylinSir",
+      "api": "./api/动漫啦 ᵈᶻ[画]?do=php",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
       "类型": "漫画",
-      "logo": "https://www.kuimh.com/static/images/favicon.ico",
-      "lang": "ds",
+      "title": "动漫啦 ᵈᶻ[画]",
+      "lang": "php",
       "ext": ""
     },
         {
