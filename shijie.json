@@ -245,6 +245,16 @@
             "playerType": 2
         },
         {
+            "key": "py_观影",
+            "name": "4K🧧观影",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "api": "./PY/观影.py",
+            "timeout": 40
+        },
+        {
             "key": "藤藤",
             "name": "腾讯🧧视频",
             "type": 3,
