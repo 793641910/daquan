@@ -1,5 +1,5 @@
 {
-   "spider": "./jar/Bshao.jar",   
+   "spider1": "./jar/Bshao.jar",   
    "wallpaper":  "https://d.kstore.dev/download/8698/IMG.jpg",
     "warningText": "兵哥视界，完全免费，切勿付费购买！",
     "sites": [
