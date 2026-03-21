@@ -45,11 +45,13 @@
             }
         },
         {
-            "key": "恐怖片",
-            "name": "恐怖🧧电影",
+            "key": "呦呦DJ",
+            "name": "呦呦🧧DJ",
             "type": 3,
-            "api": "./lib/sdtv.js",
-            "ext": "./lib/sdtvd.js"
+            "api": "csp_Djuu",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "检查更新",
