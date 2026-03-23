@@ -1,5 +1,4 @@
 {
-   "spider1": "./jar/Bshao.jar",   
    "wallpaper":  "https://d.kstore.dev/download/8698/IMG.jpg",
     "warningText": "兵哥视界，完全免费，切勿付费购买！",
     "sites": [
@@ -212,6 +211,19 @@
                 "线路标题": ">&&<",
                 "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            }
+        },
+        {
+            "key": "八戒影院",
+            "name": "八戒🧧影院",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.efboy.com/efboysw/{cateId}--------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+                "简介": "水印广告勿信，谨防诈骗"
             }
         },
         {
