@@ -8,8 +8,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
-            "indexs": 1,
-            "changeable": 1
+            "indexs": 1
         },
         {
             "key": "配置中心",
