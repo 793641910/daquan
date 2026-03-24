@@ -4,9 +4,10 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥3月21日🌺清明时节近，踏青赏花来🌺祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥3月25日🌺清明时节近，踏青赏花来🌺祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
+            "jar": "./jar/Bshao.jar",
             "searchable": 0,
             "indexs": 1
         },
