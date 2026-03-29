@@ -121,15 +121,6 @@
             "api": "./js/山有木兮.js"
         },
         {
-            "key": "还行",
-            "name": "还行🧧1080",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://m51.gotto.top/api.php/v1.vod"
-        },
-        {
             "key": "csp_Btt",
             "name": "比特🧧影视",
             "type": 3,
