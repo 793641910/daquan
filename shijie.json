@@ -1330,14 +1330,14 @@
             "类型": "短剧"
         },
         {
-            "key": "锦鲤短剧",
-            "name": "锦鲤🧧短剧",
+            "key": "eytgz4k",
+            "name": "瓜子🧧短剧",
             "type": 3,
-            "api": "csp_JinliDJ",
+            "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "ext": "./js/瓜子影视.js",
             "类型": "短剧"
         },
         {
