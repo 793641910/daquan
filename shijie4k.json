@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥3月24日🌺清明时节近，踏青赏花来🌺祝大家观影愉快",
+            "name": "💥兵哥视界💥4月5日🌺清明时节近，踏青赏花来🌺祝大家观影愉快",
             "type": 3,
             "api": "csp_Doudou",
             "jar": "./jar/Bshao.jar",
@@ -661,25 +661,14 @@
             "filterable": 1
         },
         {
-            "key": "星阁短剧",
-            "name": "星阁🧧短剧",
+            "key": "eytgz4k",
+            "name": "瓜子🧧短剧",
             "type": 3,
-            "api": "csp_XinggeDJ",
+            "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧"
-        },
-        {
-            "key": "甜圈短剧",
-            "name": "甜圈🧧短剧",
-            "type": 3,
-            "api": "csp_TianquanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "ext": "./js/瓜子短剧.js",
             "类型": "短剧"
         },
         {
