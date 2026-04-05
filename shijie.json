@@ -1308,28 +1308,6 @@
             "ext": "./js/剧圈圈.js"
         },
         {
-            "key": "星阁短剧",
-            "name": "星阁🧧短剧",
-            "type": 3,
-            "api": "csp_XinggeDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "类型": "短剧"
-        },
-        {
-            "key": "甜圈短剧",
-            "name": "甜圈🧧短剧",
-            "type": 3,
-            "api": "csp_TianquanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "类型": "短剧"
-        },
-        {
             "key": "eytgz4k",
             "name": "瓜子🧧短剧",
             "type": 3,
