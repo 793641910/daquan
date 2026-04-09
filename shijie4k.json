@@ -672,10 +672,10 @@
             "类型": "短剧"
         },
         {
-            "key": "锦鲤短剧",
-            "name": "锦鲤🧧短剧",
+            "key": "甜圈短剧",
+            "name": "甜圈🧧短剧",
             "type": 3,
-            "api": "csp_JinliDJ",
+            "api": "csp_TianquanDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
