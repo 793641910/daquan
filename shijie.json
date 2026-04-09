@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥4月5日🌺五一临，出游兴🌺祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥4月10日🌺五一临，出游兴🌺祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Doudou",
             "jar": "./jar/Bshao.jar",
@@ -537,11 +537,16 @@
             }
         },
         {
+            "key": "独播影视",
+            "name": "独播🧧仓库",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
+        {
             "key": "骚火影视",
             "name": "骚火🧧影视",
             "type": 3,
             "api": "csp_SaoHuo",
-            "playerType": 2,
             "ext": "https://shdy5.us"
         },
         {
@@ -1316,6 +1321,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/瓜子短剧.js",
+            "类型": "短剧"
+        },
+        {
+            "key": "甜圈短剧",
+            "name": "甜圈🧧短剧",
+            "type": 3,
+            "api": "csp_TianquanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "类型": "短剧"
         },
         {
