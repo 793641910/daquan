@@ -225,6 +225,16 @@
             "timeout": 60
         },
         {
+            "key": "指南",
+            "name": "指南🧧4K",
+            "type": 3,
+            "api": "csp_4KZhinan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
             "key": "闪电",
             "name": "闪电🧧4K",
             "type": 3,
@@ -427,7 +437,7 @@
         },
         {
             "key": "阿里云盘",
-            "name": "阿里🧧云盘",
+            "name": "我的🧧阿里",
             "type": 3,
             "api": "csp_PanAli",
             "searchable": 0,
@@ -440,7 +450,7 @@
         },
         {
             "key": "夸克网盘",
-            "name": "夸克🧧网盘",
+            "name": "我的🧧夸克",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -453,7 +463,7 @@
         },
         {
             "key": "UC网盘",
-            "name": "UC🧧网盘",
+            "name": "我的🧧UC",
             "type": 3,
             "api": "csp_PanUC",
             "searchable": 0,
@@ -466,7 +476,7 @@
         },
         {
             "key": "百度网盘",
-            "name": "百度🧧网盘",
+            "name": "我的🧧百度",
             "type": 3,
             "api": "csp_PanBaidu",
             "searchable": 0,
@@ -476,6 +486,16 @@
                 "type": "list",
                 "ratio": 1.433
             }
+        },
+        {
+            "key": "九七",
+            "name": "九七🧧搜索",
+            "type": 3,
+            "api": "csp_97Sou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
         },
         {
             "key": "糖果",
