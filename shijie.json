@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥4月10日🌺五一临，出游兴🌺祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥4月13日🌺五一临，出游兴🌺祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Doudou",
             "jar": "./jar/Bshao.jar",
@@ -263,31 +263,60 @@
             "ext": "./lib/茫茫.png"
         },
         {
-            "key": "咕噜",
-            "name": "咕噜🧧影院",
+            "key": "三秋影视",
+            "name": "三秋🧧影院",
+            "type": 3,
+            "api": "csp_App3Q"
+        },
+        {
+            "key": "奴娜",
+            "name": "奴娜🧧影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.nntv.in/api.php/v1.vod"
+        },
+        {
+            "key": "闪影",
+            "name": "闪影🧧影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "超前",
+            "name": "超前🧧影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://chaoqianys.top:91/api.php/app/"
+        },
+        {
+            "key": "飞飞",
+            "name": "飞飞🧧影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://qpcj.69mini.com/api.php/app/"
+        },
+        {
+            "key": "云播",
+            "name": "云播🧧影院",
             "type": 3,
             "api": "csp_AppFox",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "host": "http://www.yingsw.top",
-                "key": "guluyinghua_123",
-                "sign": "679543610991810f19698c187e5e106e"
-            }
-        },
-        {
-            "key": "奇t奇",
-            "name": "奇奇🧧影院",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:8009",
-                "dataKey": "123456789abcdefg",
-                "dataIv": "123456789abcdefg",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
+                "host": "http://app.hktvyb.cc"
             }
         },
         {
@@ -298,122 +327,64 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "url": "http://117.50.204.35:520",
+                "url": "http://117.50.204.35:8090",
                 "dataKey": "ca94b06ca3c7d80e",
                 "dataIv": "ca94b06ca3c7d80e",
-                "search": "gftvvvvklod",
-                "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
         {
-            "key": "爱盈",
-            "name": "爱盈🧧影院",
+            "key": "⭐️牌",
+            "name": "银牌🧧影院",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
-                "dataKey": "sjvlwnhk6h9znl61",
-                "dataIv": "sjvlwnhk6h9znl61",
-                "version": "305",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "金色牌",
-            "name": "星牌🧧影院",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
-                "dataKey": "eecbio48dsq131ee",
-                "dataIv": "eecbio48dsq131ee",
+                "url": "https://qj4.catbb.xyz",
+                "dataKey": "eecbio48dsq13kkk",
+                "dataIv": "eecbio48dsq13kkk",
                 "search": "searchList4",
-                "version": "305",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
         {
-            "key": "小猪",
-            "name": "小猪🧧影院",
+            "key": "老鹰",
+            "name": "老鹰🧧影院",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
-                "dataKey": "lp3d4t53y9t5db8y",
-                "dataIv": "lp3d4t53y9t5db8y",
-                "search": "searchList9",
-                "init": "initV122",
+                "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "dataKey": "zxPtEUDGVllIUhDB",
+                "dataIv": "zxPtEUDGVllIUhDB",
                 "ua": "okhttp/3.10.0"
             }
         },
         {
-            "key": "爱影",
-            "name": "爱影🧧影院",
+            "key": "蓝鹰",
+            "name": "蓝鹰🧧影院",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q18.txt",
-                "dataKey": "fff32466kkf87666",
-                "dataIv": "fff32466kkf87666"
-            }
-        },
-        {
-            "key": "优兔",
-            "name": "优兔🧧影院",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd",
+                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "init": "initV120",
                 "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "七壹",
-            "name": "七壹🧧影院",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://qiyiys.cc",
-                "dataKey": "45452893929B40D9",
-                "dataIv": "45452893929B40D9"
-            }
-        },
-        {
-            "key": "缘梦",
-            "name": "缘梦🧧影院",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://165.99.42.137:5432",
-                "dataKey": "1234567890987654",
-                "dataIv": "1234567890987654"
             }
         },
         {
             "key": "王子",
             "name": "王子🧧影院",
             "type": 3,
-            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
+            "api": "csp_AppGet",
             "ext": {
                 "url": "https://app.95112475.xyz",
                 "dataKey": "5a9w6x58dsq6z3a6",
@@ -421,29 +392,30 @@
             }
         },
         {
-            "key": "小猫",
-            "name": "小猫🧧影院",
+            "key": "星空",
+            "name": "星空🧧影院",
             "type": 3,
-            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
+            "api": "csp_AppGet",
             "ext": {
-                "site": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
-                "dataKey": "xmyxmyxywlkjxywl",
-                "dataIv": "xmyxmyxywlkjxywl"
+                "url": "http://xk7.xkgzs.xyz",
+                "dataKey": "107jkcdncofcdkjk",
+                "dataIv": "107jkcdncofcdkjk"
             }
         },
         {
-            "key": "魔方",
-            "name": "魔方🧧影院",
+            "key": "秒看",
+            "name": "秒看🧧影院",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "url": "http://www.613mf4k12.top",
-                "dataKey": "1234567887654321",
-                "dataIv": "1234567887654321"
+                "site": "https://mk1080.top/get.txt",
+                "dataKey": "c60d88b2eep53za8",
+                "dataIv": "c60d88b2eep53za8",
+                "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
             }
         },
         {
@@ -460,80 +432,16 @@
             }
         },
         {
-            "key": "驿站",
-            "name": "驿站🧧影院",
+            "key": "灵虎",
+            "name": "灵虎🧧影院",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-                "dataKey": "dyyztvapiappyyds",
-                "dataIv": "dyyztvapiappyyds"
-            }
-        },
-        {
-            "key": "零度",
-            "name": "零度🧧影院",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": {
-                "url": "http://ld.ldysapp.cn",
-                "header": {
-                    "content-type": "application/json",
-                    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-                    "x-app-package": "com.mjyx.jhxq",
-                    "x-app-version-code": "36",
-                    "x-app-version-name": "2.2.6"
-                }
-            }
-        },
-        {
-            "key": "火腿猫",
-            "name": "熊猫🧧影院",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": {
-                "url": "https://jp5.ggtvb.cc",
-                "header": {
-                    "content-type": "application/json",
-                    "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-                    "x-app-package": "cc.xzsc.user",
-                    "x-app-version-code": "12",
-                    "x-app-version-name": "5.2"
-                }
-            }
-        },
-        {
-            "key": "星影",
-            "name": "星影🧧影院",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": {
-                "url": "http://110.81.153.7:8081",
-                "header": {
-                    "content-type": "application/json",
-                    "x-app-signature": "65:10:73:C4:52:FE:2D:8B:88:76:C2:17:83:C1:D3:6B:E3:2D:E0:40:F4:49:05:92:02:AA:DF:C3:12:78:1C:0C",
-                    "x-app-package": "com.asxkkc.jbz",
-                    "x-app-version-code": "5",
-                    "x-app-version-name": "1.3.9"
-                }
-            }
-        },
-        {
-            "key": "回响",
-            "name": "回响🧧影院",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": {
-                "url": "http://110.42.37.69:8080",
-                "header": {
-                    "content-type": "application/json",
-                    "x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
-                    "x-app-package": "com.recall.app",
-                    "x-app-version-code": "22",
-                    "x-app-version-name": "2.2.0"
-                }
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
             }
         },
         {
@@ -1821,7 +1729,7 @@
         },
         {
             "key": "阿里云盘",
-            "name": "阿里🧧云盘",
+            "name": "我的🧧阿里",
             "type": 3,
             "api": "csp_PanAli",
             "searchable": 0,
@@ -1834,7 +1742,7 @@
         },
         {
             "key": "夸克网盘",
-            "name": "夸克🧧网盘",
+            "name": "我的🧧夸克",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -1847,7 +1755,7 @@
         },
         {
             "key": "UC网盘",
-            "name": "UC🧧网盘",
+            "name": "我的🧧UC",
             "type": 3,
             "api": "csp_PanUC",
             "searchable": 0,
@@ -1860,7 +1768,7 @@
         },
         {
             "key": "百度网盘",
-            "name": "百度🧧网盘",
+            "name": "我的🧧百度",
             "type": 3,
             "api": "csp_PanBaidu",
             "searchable": 0,
