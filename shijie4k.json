@@ -4,10 +4,9 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥4月5日🌺五一临，出游兴🌺祝大家观影愉快",
+            "name": "💥兵哥视界💥4月16日🌺五一临，出游兴🌺祝大家观影愉快",
             "type": 3,
-            "api": "csp_Doudou",
-            "jar": "./jar/Bshao.jar",
+            "api": "csp_Douban",
             "searchable": 0,
             "indexs": 1
         },
